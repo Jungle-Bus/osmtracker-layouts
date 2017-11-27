@@ -1,9 +1,9 @@
 <layouts>
  <layout name="root">
    <row>
+   <button type="tag" label="arrêt sans indication" icon="Junglebus-04.png"/>
    <button type="tag" label="poteau" icon="Junglebus-05.png" />
    <button type="tag" label="abribus" icon="Junglebus-06.png"/>
-   <button type="tag" label="arrêt sans indication" icon="Junglebus-04.png"/>
   </row>
      <row></row>
   <row></row>
