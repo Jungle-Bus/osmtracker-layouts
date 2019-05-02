@@ -9,7 +9,7 @@ Pour ajouter ces dispositions dans l'application OSMTracker:
 * appuyer ensuite sur la clef :wrench: en haut à droite
 * cliquer sur `custom`, et renseigner les valeurs suivantes dans le formulaire de configuration :
   * github username : `Jungle-Bus`
-  * repository name : `bus_osmtracker_layout`
+  * repository name : `osmtracker-layouts`
   * branch name : `master`
 * Sauvegarder
 * Choisir à présent une disposition à ajouter à l'application, et la télécharger
