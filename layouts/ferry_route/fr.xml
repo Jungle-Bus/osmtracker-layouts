@@ -1,0 +1,17 @@
+<layouts>
+    <layout name="root">
+        <row>
+            <button type="tag" label="arrêt" icon="/ferry_route_icons/Junglebus-07.png"/>
+        </row>
+        <row></row>
+        <row></row>
+        <row>
+            <button type="voicerec" label="Voice record" icon="voice.png"/>
+            <button type="picture" label="Take picture" icon="camera.png"/>
+            <button type="textnote" label="Text note" icon="text.png"/>
+        </row>
+        <row></row>
+        <row></row>
+
+    </layout>
+</layouts>
