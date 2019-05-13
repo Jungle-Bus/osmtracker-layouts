@@ -19,3 +19,6 @@ Cette disposition est maintenant disponible dans la liste des dispositions, dans
 ## List of layouts
 ### Bus route
 ![Image of layout](layouts/bus_route/layout.png)
+
+### Ferry route
+![Image of layout](layouts/ferry_route/layout.png)
