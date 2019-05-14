@@ -22,3 +22,13 @@ Cette disposition est maintenant disponible dans la liste des dispositions, dans
 
 ### Ferry route
 ![Image of layout](layouts/ferry_route/layout.png)
+
+## Credits
+
+This project has been developed by the [Jungle Bus](http://junglebus.io/) team.
+
+The code in this repository is under the GPL-3.0 license.
+
+If you value this work, show your support by donating to the [OSM French local chapter](http://openstreetmap.fr).
+
+![Jungle Bus Logo](https://i.imgur.com/7QskztK.png)
