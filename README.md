@@ -23,6 +23,12 @@ Cette disposition est maintenant disponible dans la liste des dispositions, dans
 ### Ferry route
 ![Image of layout](layouts/ferry_route/layout.png)
 
+## See also
+
+Once you have collected your tracks, you can use JOSM with the [Jungle stop presets](https://github.com/Jungle-Bus/josm-presets) to quickly create the route in OpenStreetMap :wink:
+
+![jungle stop presets](https://raw.githubusercontent.com/Jungle-Bus/josm-presets/master/doc/josm_capture_menu.png)
+
 ## Credits
 
 This project has been developed by the [Jungle Bus](http://junglebus.io/) team.
