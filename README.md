@@ -23,6 +23,12 @@ Cette disposition est maintenant disponible dans la liste des dispositions, dans
 ### Ferry route
 ![Image of layout](layouts/ferry_route/layout.png)
 
+## Translate
+
+Let's say you want to translate the bus route layout in your language, you will need to do the following:
+- add a line with your language and a description in the [metadata file](https://github.com/Jungle-Bus/osmtracker-layouts/blob/master/layouts/metadata/bus_route.xml)
+- duplicate the [en.xml file](https://github.com/Jungle-Bus/osmtracker-layouts/blob/master/layouts/bus_route/en.xml) and translate the `label` items
+
 ## See also
 
 Once you have collected your tracks, you can use JOSM with the [Jungle stop presets](https://github.com/Jungle-Bus/josm-presets) to quickly create the route in OpenStreetMap :wink:
