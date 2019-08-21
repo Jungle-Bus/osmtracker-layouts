@@ -1,6 +1,6 @@
 <metadata>
     <option iso="en" name="English">With this Layout you can map the tracks of bus routes and three types of bus stops.</option>
-    <option iso="fr" name="Français">Avec cette disposition de boutons vous pouvez collecter le tracés des lignes de bus ainsi que trois types différents d'arrêts de bus.</option>
+    <option iso="fr" name="Français">Avec cette disposition de boutons vous pouvez collecter les tracés des lignes de bus ainsi que trois types différents d'arrêts de bus.</option>
     <option iso="es" name="Spanish">Con este layout podrias mapear las rutas de las buses y tres tipos de paradas.</option>
     <github username="Jungle-Bus" repo="osmtracker-layouts" branch="master" />
 </metadata>
