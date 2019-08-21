@@ -1,0 +1,19 @@
+<layouts>
+    <layout name="root">
+        <row>
+            <button type="tag" label="empty" icon="/bus_route_icons/Junglebus-05.png"/>
+            <button type="tag" label="half full" icon="/bus_route_icons/Junglebus-05.png"/>
+            <button type="tag" label="full" icon="/bus_route_icons/Junglebus-05.png"/>
+        </row>
+        <row></row>
+        <row></row>
+        <row>
+            <button type="tag" label="crowded" icon="/bus_route_icons/Junglebus-05.png"/>
+            <button type="picture" label="Take picture" icon="camera.png"/>
+            <button type="textnote" label="Text note" icon="text.png"/>
+        </row>
+        <row></row>
+        <row></row>
+
+    </layout>
+</layouts>
