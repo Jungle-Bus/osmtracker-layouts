@@ -1,0 +1,20 @@
+<layouts>
+    <layout name="root">
+        <row>
+            <button type="tag" label="empty" icon="/bus_route_occupancy_icons/Remplissage-1.png"/>
+            <button type="tag" label="half full" icon="/bus_robus_route_occupancy_iconsute_icons/Remplissage-2.png"/>
+        </row>
+        <row>
+            <button type="tag" label="full" icon="/bus_route_occupancy_icons/Remplissage-3.png"/>
+            <button type="tag" label="crowded" icon="/bus_route_occupancy_icons/Remplissage-4.png"/>
+        </row>
+        <row></row>
+        <row>
+            <button type="picture" label="Take picture" icon="camera.png"/>
+            <button type="textnote" label="Text note" icon="text.png"/>
+        </row>
+        <row></row>
+        <row></row>
+
+    </layout>
+</layouts>
