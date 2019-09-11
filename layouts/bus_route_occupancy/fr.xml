@@ -1,14 +1,15 @@
 <layouts>
     <layout name="root">
         <row>
-            <button type="tag" label="vide" icon="/bus_route_icons/Junglebus-05.png"/>
-            <button type="tag" label="mi-plein" icon="/bus_route_icons/Junglebus-05.png"/>
-            <button type="tag" label="plein" icon="/bus_route_icons/Junglebus-05.png"/>
+            <button type="tag" label="vide" icon="/bus_route_occupancy_icons/Remplissage-1.png"/>
+            <button type="tag" label="mi-plein" icon="/bus_route_occupancy_icons/Remplissage-2.png"/>
+        </row>
+        <row>
+            <button type="tag" label="plein" icon="/bus_route_occupancy_icons/Remplissage-3.png"/>
+            <button type="tag" label="surchargé" icon="/bus_route_occupancy_icons/Remplissage-4.png"/>
         </row>
         <row></row>
-        <row></row>
         <row>
-            <button type="tag" label="surchargé" icon="/bus_route_icons/Junglebus-05.png"/>
             <button type="picture" label="Take picture" icon="camera.png"/>
             <button type="textnote" label="Text note" icon="text.png"/>
         </row>
