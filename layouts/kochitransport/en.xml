@@ -6,12 +6,14 @@
          <button type="tag" label="bus stop pole" icon="/kochitransport_icons/Junglebus-05.png" />
          <button type="tag" label="bus shelter" icon="/kochitransport_icons/Junglebus-06.png" />
       </row>
-      <row></row>
-       <row>
+
+      <row>
          <button type="tag" label="auto stand" icon="/kochitransport_icons/Junglebus-08.png" />
          <button type="tag" label="taxi stand" icon="/kochitransport_icons/Junglebus-09.png" />
-      </row>  
+      </row>
+      <row></row>
       <row>
+         <button type="picture" label="Take picture" icon="camera.png" />
          <button type="textnote" label="Text note" icon="text.png" />
       </row>
       <row></row>

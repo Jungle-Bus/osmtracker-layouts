@@ -57,6 +57,8 @@ This project has been developed by the [Jungle Bus](http://junglebus.io/) team.
 
 The code in this repository is under the GPL-3.0 license.
 
+The rickshaw icon was created by James Fenton from the Noun Project. The taxi icon was created by Andi Nur Abdillah from the Noun Project.
+
 If you value this work, show your support by donating to the [OSM French local chapter](http://openstreetmap.fr).
 
 ![Jungle Bus Logo](https://i.imgur.com/7QskztK.png)
