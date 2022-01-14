@@ -1,0 +1,19 @@
+<layouts>
+   <layout name="root">
+
+      <row>
+         <button type="tag" label="Start" icon="/simplekochitransport_icons/Junglebus-10.png" />
+         <button type="tag" label="End" icon="/simplekochitransport_icons/Junglebus-11.png" />
+      </row>
+
+      <row></row>
+      <row></row>
+      <row>
+         <button type="picture" label="Take picture" icon="camera.png" />
+         <button type="textnote" label="Text note" icon="text.png" />
+      </row>
+      <row></row>
+      <row></row>
+
+   </layout>
+</layouts>
